@@ -1,0 +1,47 @@
+
+.container{
+  height: 900px;
+
+}
+
+
+.col-left{
+
+  width: 33%;
+  height: 100%;
+  background-color: #4696E9;
+  float: left;
+}
+
+
+.col-center{
+
+  height: 100%;
+  width: 33%;
+  float: left;
+  background-color: #ADF490;
+}
+
+
+.col-right{
+  float: left;
+  background-color: #00EECD;
+  width: 33%;
+  height: 75%;
+}
+
+.redsquare{
+  width: 33%;
+  height: 25%;
+  background-color: red;
+  float: left;
+  text-align: center;
+  padding: auto;
+
+}
+
+.redsquare h1{
+  margin-top: 20%;
+  display: inline-block;
+  color: white;
+}
